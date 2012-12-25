@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <scheme name="Espresso Soda" version="1" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Monaco" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="CARET_ROW_COLOR" value="e9e9e9" />
     <option name="GUTTER_BACKGROUND" value="f9f9f9" />
